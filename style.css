@@ -1,0 +1,49 @@
+body{
+  background-color: #FEDEBE;
+  font-family: monospace;
+}
+
+
+h1 {
+text-align: center;
+color: #BE5504
+}
+
+
+h2 {
+text-align: center;
+color: #FDA172
+}
+
+
+p {
+  color: tomato;
+  text-align: center;
+}
+
+.sitat {
+font-weight: bold;
+font-style: italic;
+font-size: 30px
+}
+
+
+.potatis{
+  margin-top: 50px;
+  font-size: 20px;
+}
+
+
+.skincare {
+  font-style: italic;
+  font-size: 15px
+}
+
+
+
+.bilde {
+width: 400px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
